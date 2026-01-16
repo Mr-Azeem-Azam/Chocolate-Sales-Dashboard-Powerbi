@@ -45,19 +45,10 @@ The dashboard focuses on **executive-level KPIs**, **product contribution**, and
 ## 📸 Dashboard Screenshots
 
 ### Executive Overview
-![Executive Overview](Screenshots/Executive%20Overview.JPG)
-
-### Performance & Trend Analysis
-![Performance & Trend Analysis](Screenshots/Performance%20%26%20Trend%20Analysis.JPG)
-
-## 📸 Dashboard Screenshots
-
-### Executive Overview
 ![Executive Overview](Chocolate-Sales-Dashboard/Screenshots/Executive%20Overview.JPG)
 
 ### Performance & Trend Analysis
 ![Performance & Trend Analysis](Chocolate-Sales-Dashboard/Screenshots/Performance%20%26%20Trend%20Analysis.JPG)
-
 
 ---
 

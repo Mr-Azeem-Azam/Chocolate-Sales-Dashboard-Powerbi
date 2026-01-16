@@ -50,6 +50,15 @@ The dashboard focuses on **executive-level KPIs**, **product contribution**, and
 ### Performance & Trend Analysis
 ![Performance & Trend Analysis](Screenshots/Performance%20%26%20Trend%20Analysis.JPG)
 
+## 📸 Dashboard Screenshots
+
+### Executive Overview
+![Executive Overview](Screenshots/Executive%20Overview.JPG)
+
+### Performance & Trend Analysis
+![Performance & Trend Analysis](Screenshots/Performance%20%26%20Trend%20Analysis.JPG)
+
+
 ---
 
 ## 🧹 Data Preparation
